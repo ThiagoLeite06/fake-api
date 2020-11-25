@@ -89,5 +89,12 @@
     "fornecedor": "Lorem Ipsum",
     "valor": 466.0,
     "elegivel": false
+  },
+  {
+    "vencimento": "13/11/2020",
+    "cnpj": "123.456.789/0001-10",
+    "fornecedor": "Ipsum",
+    "valor": 466.0,
+    "elegivel": true
   }
 ]
