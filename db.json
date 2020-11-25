@@ -1,100 +1,102 @@
-[
-  {
-    "vencimento": "03/11/2020",
-    "cnpj": "123.456.789/0001-10",
-    "fornecedor": "ZAP Descartáveis",
-    "valor": 780.87,
-    "elegivel": true
-  },
-  {
-    "vencimento": "30/09/2020",
-    "cnpj": "231.456.989/0001-10",
-    "fornecedor": "Colégio XPTO",
-    "valor": 1002.78,
-    "elegivel": true
-  },
-  {
-    "vencimento": "01/06/2020",
-    "cnpj": "435.466.689/0004-10",
-    "fornecedor": "Bandeirante Energia",
-    "valor": 2500.0,
-    "elegivel": false
-  },
-  {
-    "vencimento": "03/03/2020",
-    "cnpj": "323.556.889/0002-11",
-    "fornecedor": "Faculdade XPTO",
-    "valor": 1.0,
-    "elegivel": true
-  },
-  {
-    "vencimento": "23/02/2020",
-    "cnpj": "023.356.689/0003-40",
-    "fornecedor": "SABESP",
-    "valor": 930.0,
-    "elegivel": false
-  },
-  {
-    "vencimento": "03/05/2020",
-    "cnpj": "123.456.789/0001-10",
-    "fornecedor": "ZAP Descartáveis",
-    "valor": 940.0,
-    "elegivel": false
-  },
-  {
-    "vencimento": "15/11/2020",
-    "cnpj": "123.436.389/0001-10",
-    "fornecedor": "Fábrica de Sapatos",
-    "/     valor": 2435.0,
-    "elegivel": true
-  },
-  {
-    "vencimento": "03/11/2020",
-    "cnpj": "423.446.789/0001-10",
-    "fornecedor": "Oficina Gas Monkey",
-    "valor": 2435.0,
-    "elegivel": true
-  },
-  {
-    "vencimento": "03/11/2020",
-    "cnpj": "123.456.789/0001-10",
-    "fornecedor": "Cia Marítima",
-    "valor": 2435.0,
-    "elegivel": true
-  },
-  {
-    "vencimento": "03/11/2020",
-    "cnpj": "123.456.789/0001-10",
-    "fornecedor": "Casa do SOM",
-    "valor": 2785.0,
-    "elegivel": false
-  },
-  {
-    "vencimento": "02/10/2020",
-    "cnpj": "123.456.789/0001-10",
-    "fornecedor": "Faculdade Naval",
-    "valor": 2435.0,
-    "elegivel": false
-  },
-  {
-    "vencimento": "23/11/2020",
-    "cnpj": "123.456.789/0001-10",
-    "fornecedor": "Rap10",
-    "valor": 5435.0,
-    "elegivel": true
-  },
-  {
-    "vencimento": "13/11/2020",
-    "cnpj": "123.456.789/0001-10",
-    "fornecedor": "Lorem Ipsum",
-    "valor": 466.0,
-    "elegivel": false
-  },
-  {
-    "vencimento": "13/11/2020",
-    "cnpj": "123.456.789/0001-10",
-    "fornecedor": "Ipsum",
-    "valor": 466.0,
-    "elegivel": true
-  }
-]
+{
+  "items": [
+    {
+      "vencimento": "03/11/2020",
+      "cnpj": "123.456.789/0001-10",
+      "fornecedor": "ZAP Descartáveis",
+      "valor": 780.87,
+      "elegivel": true
+    },
+    {
+      "vencimento": "30/09/2020",
+      "cnpj": "231.456.989/0001-10",
+      "fornecedor": "Colégio XPTO",
+      "valor": 1002.78,
+      "elegivel": true
+    },
+    {
+      "vencimento": "01/06/2020",
+      "cnpj": "435.466.689/0004-10",
+      "fornecedor": "Bandeirante Energia",
+      "valor": 2500.0,
+      "elegivel": false
+    },
+    {
+      "vencimento": "03/03/2020",
+      "cnpj": "323.556.889/0002-11",
+      "fornecedor": "Faculdade XPTO",
+      "valor": 1.0,
+      "elegivel": true
+    },
+    {
+      "vencimento": "23/02/2020",
+      "cnpj": "023.356.689/0003-40",
+      "fornecedor": "SABESP",
+      "valor": 930.0,
+      "elegivel": false
+    },
+    {
+      "vencimento": "03/05/2020",
+      "cnpj": "123.456.789/0001-10",
+      "fornecedor": "ZAP Descartáveis",
+      "valor": 940.0,
+      "elegivel": false
+    },
+    {
+      "vencimento": "15/11/2020",
+      "cnpj": "123.436.389/0001-10",
+      "fornecedor": "Fábrica de Sapatos",
+      "/     valor": 2435.0,
+      "elegivel": true
+    },
+    {
+      "vencimento": "03/11/2020",
+      "cnpj": "423.446.789/0001-10",
+      "fornecedor": "Oficina Gas Monkey",
+      "valor": 2435.0,
+      "elegivel": true
+    },
+    {
+      "vencimento": "03/11/2020",
+      "cnpj": "123.456.789/0001-10",
+      "fornecedor": "Cia Marítima",
+      "valor": 2435.0,
+      "elegivel": true
+    },
+    {
+      "vencimento": "03/11/2020",
+      "cnpj": "123.456.789/0001-10",
+      "fornecedor": "Casa do SOM",
+      "valor": 2785.0,
+      "elegivel": false
+    },
+    {
+      "vencimento": "02/10/2020",
+      "cnpj": "123.456.789/0001-10",
+      "fornecedor": "Faculdade Naval",
+      "valor": 2435.0,
+      "elegivel": false
+    },
+    {
+      "vencimento": "23/11/2020",
+      "cnpj": "123.456.789/0001-10",
+      "fornecedor": "Rap10",
+      "valor": 5435.0,
+      "elegivel": true
+    },
+    {
+      "vencimento": "13/11/2020",
+      "cnpj": "123.456.789/0001-10",
+      "fornecedor": "Lorem Ipsum",
+      "valor": 466.0,
+      "elegivel": false
+    },
+    {
+      "vencimento": "13/11/2020",
+      "cnpj": "123.456.789/0001-10",
+      "fornecedor": "Ipsum",
+      "valor": 466.0,
+      "elegivel": true
+    }
+  ]
+}
